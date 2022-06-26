@@ -1,8 +1,19 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
 .background {
     background-color:#88BDBC;
     position:absolute;
-    top:0px;
+    top:80px;
     right:0px;
     bottom:0px;
     left:0px;
+}
+.featured {
+    background-color: white;
+    width: 100vw;
+    height: 100px;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
 }
